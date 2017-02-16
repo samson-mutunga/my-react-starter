@@ -1,8 +1,8 @@
 import delay from './delay.api';
 
 const credentials = {
-    username: 'samsonmutunga@gmail.com',
-    password: 'Changez@2011'
+    username: 'admin@admin.com',
+    password: 'password'
 }
 
 class LoginApi {
